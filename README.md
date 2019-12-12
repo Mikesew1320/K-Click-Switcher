@@ -36,19 +36,18 @@ If you want to change your choice again flash the module twice from TWRP or Magi
   
 ### v2.0-(Ardi)
 - Added codename Ardi.
-- Moved to Unity template 4.2
-- New module name
-- Fixed issue with some TECNO phones specially on HiOS 2.2
-- Added more sounds like Hamburger, AOSP and TouchWiz
+- Moved to Unity template 4.2.
+- New module name.
+- Fixed issue with some TECNO phones specially on HiOS 2.2.
+- Added more sounds like Hamburger, AOSP and TouchWiz.
   
 ### v3.0-(Lucy)
 - Added codename Lucy.
-- Updated to Unity template 4.4
-- Added support for GSI Build ROMs
-- Added ASCII Art that will be shown during installation
-- Added more sounds like Bruh, Gabe, Windows and Xperia Legacy
-- Removed too many un-nessesary *mkdir -p* command
-- Various fixes for mistaken loops
+- Updated to Unity template 4.4.
+- Added support for GSI Build ROMs.
+- Added more sounds like Bruh, Gabe, Windows and Xperia Legacy.
+- Removed too many un-nessesary *mkdir -p* command.
+- Various fixes for mistaken loops.
 
 ## Credits
 - topjohnwu for [Magisk](https://github.com/topjohnwu/Magisk)
