@@ -20,9 +20,8 @@ If you want to change your choice again flash the module twice from TWRP or Magi
 ## Telegram Support Group
 -   [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg)](https://t.me/MGStoreEthiopiaG)
 
-## Mini Memo
-
-- WRAPPED WITH GREAT LOVE AND HAPPINESS IN ETHIOPIA
+### Where is the module created?
+-   [![Created in Ethiopia](https://img.shields.io/badge/Created%20in-Ethiopia-red)](https://en.m.wikipedia.org/wiki/Ethiopia)
 
 ## Requirements
 - Magisk Rooted Android Phone running Magisk 18.0+
